@@ -23,7 +23,7 @@ Finally, please note that Collapse.py is far from immune to bugs and crashes, an
 
 #### Options
 
-Collapse.py has the following options (which can also be consulted by typing "ElConcatenero.py -h" in the command line):
+Collapse.py has the following options (which can also be consulted by typing "Collapse.py -h" in the command line):
 
   -h, --help            **show this help message and exit**
   
