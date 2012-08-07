@@ -26,9 +26,13 @@ Finally, please note that Collapse.py is far from immune to bugs and crashes, an
 Collapse.py has the following options (which can also be consulted by typing "ElConcatenero.py -h" in the command line):
 
   -h, --help            **show this help message and exit**
+  
   -if *{fasta,nexus,phylip}*	**Format of the input file(s) (default is 'fasta')**
+  
   -of *{nexus,phylip,fasta,arlequin}*	**Format of the ouput file (default is 'nexus')**
+  
   -o *OUTFILE*            **Name of the output file (default is 'Outfile')**
+  
   -in *INFILE [INFILE ...]*	**Input files**
 								
 #####Note:
